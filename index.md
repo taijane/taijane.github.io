@@ -12,7 +12,14 @@ I decided to setup this website to show some of my projects and hopefully make a
 ## My Projects
 
 # Card Drinking Game (Busfahrer)
-<img src="/assets/Busfahrer Screenshots/Simulator Screen Shot - iPhone 8 - 2021-12-11 at 22.03.08.png"
+This is a small drinking game i made called Busfahrer (engl. Busdriver). First the number of players and the names have to be entered. Then every player has to predict the color of the card (black or red). If a player chooses wrong he or she has to drink. Next every player has to predict if the next card is above or below the previous card. If he is wrong again he or she has to take another sip. After four round of guessing every player ends up with 4 hand cards. Next 10 other cards will be revealed. If a player has the same card on the hand cards, another player can be choosen to take a sip of the drink. The player who gave out the most sips is called the "Busfahrer". This player goes ahead to the last final round. There, the player is only allowed to reveal numbered cards. If the guess is wrong, the player has to start over from the beginning and has to drink the amount of sips as the row he failed.
+
+<img src="/assets/Busfahrer Screenshots/Simulator Screen Shot - iPhone 8 - 2021-12-11 at 22.06.20.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px;"
+     width="200" height="350"/>
+     
+<img src="/assets/Busfahrer Screenshots/Simulator Screen Shot - iPhone 8 - 2021-12-11 at 22.06.24.png"
      alt="application photo"
      style="float: left; margin-right: 10px;"
      width="200" height="350"/>
