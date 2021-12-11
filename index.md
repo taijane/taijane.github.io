@@ -138,6 +138,10 @@ My whole life i loved games and i always wanted to build my own game. Some years
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
      width="1000" height="600"/>
+     
+## VR Labyrinth with Unity
+
+In the 5th semester at my university we had to build a VR Game in Unity with a team of 7 people. The goal was to build a dark labyrinth that changes while walking. My part was to design a couple of mini games that the player had to play to get more time and his torch that he needed for light wouldn't burn out. So i designed a VR bowling game and button mashing game. The game was a huge success and is still used for demonstration what students could learn at the university. Sadly there aren't any photots or videos available at the moment.
 
 ### Support or Contact
 
