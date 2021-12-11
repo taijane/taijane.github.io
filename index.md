@@ -101,6 +101,9 @@ This application is made for your own personal workouts. First, you can add a ne
 
 ## Crypto Trading Bot (Python)
 
+My newest and current project is a crypto trading bot and backtester. The bot is programmed in python and uses the FTX API to get historic market data. This price data is processed and depending on previous added indicators a decisions is made. If the strategy condition is fulfilled the bot will automatically open a trade through the FTX API.
+The images below shows my backtester which is integrated into the trading bot. This backtester can be used to simulate a trading strategy. Therefore before simulation a couple of parameters need to be set. The process bar shows that the simulation is running how far the result is calculated. After finishing calculation the graph button can be used to plot the processed data in the default browser (Plotly library). There the price and several indicators that are part of the selected strategy are shown. Furthermore, all trades are highlighted by markers and a box that shows our start, end, take profit and stop loss values of the trade. The live trading bot doesn't have a GUI yet, and simply runs in the terminal on a raspberry pi 4. This project is just in the beginning phase and much more functionalities will be added soon.  
+
 <img src="/assets/Glaedr_Screenshots/GUI_backtester.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
