@@ -104,7 +104,7 @@ This application is made for your own personal workouts. First, you can add a ne
 <img src="/assets/Glaedr_Screenshots/GUI_backtester.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="450" height="250"/>
+     width="470" height="300"/>
      
 <img src="/assets/Glaedr_Screenshots/GUI_backtester_loading_process.png"
      alt="application photo"
