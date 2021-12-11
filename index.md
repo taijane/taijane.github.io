@@ -2,7 +2,7 @@
 <img src="/assets/Tjan_Bewerbungsfoto.JPG"
      alt="application photo"
      style="float: left; margin-right: 10px;"
-     width="300" height="500"/>
+     width="300" height="370"/>
  
 My name is Tjan Meinecke, I'm 22 years old and live in Hanover, Germany. Currently i study Computer Engineering (Master of Science) at the Leibniz university in Hanover. My whole life i was obsessed with technology, especially computers. At the age of 10 i started to take apart old computers and study all the components to get a better understanding off how the stuff works. Only a year later i bought my first programming book and started to learn C++ in my free time. Since then programming never left my life again. In school my favorite and best subject was IT. When i came home after school, the first thing I did was to start my computer trying to learn something new about coding or hacking (white hat of course ;) ). Thats why after finishing school I knew exactly what i want to study. Unfortunately at the university there wasnt a class about IOS app development, which was always a dream of mine to learn some day. So i decided to buy a macbook myself and started learning to code apps on my own. 
 Two years ago i also developed a big interest in DJing and music production. So i started to watch a lot of tutorials and learned everything about the process of making a song, mixing and mastering and publishing it.
