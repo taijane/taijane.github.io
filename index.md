@@ -101,6 +101,11 @@ This application is made for your own personal workouts. First, you can add a ne
 
 ## Crypto Trading Bot (Python)
 
+<img src="/assets/Glaedr_Screenshots/GUI_backtester.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="400" height="300"/>
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
