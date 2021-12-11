@@ -15,7 +15,7 @@ I decided to setup this website to show some of my projects and hopefully make a
 <img src="/assets/Busfahrer Screenshots/Simulator Screen Shot - iPhone 8 - 2021-12-11 at 22.03.08.png"
      alt="application photo"
      style="float: left; margin-right: 10px;"
-     width="300" height="370"/>
+     width="200" height="350"/>
 
 ```markdown
 Syntax highlighted code block
