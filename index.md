@@ -57,7 +57,7 @@ This is a small drinking game i made called Busfahrer (engl. Busdriver). First t
 
 
 ## IOS Workout Timer App
-This application is made for your own personel workouts.
+This application is made for your own personal workouts. First, you can add a new workout by pressing the "+" button or delete an existing workout. Once a workout is created it will get stored on the phones memory and reloaded on app launch. On the next screen you can add multiple exercises to your new workout. Every exercise gets a name and a number of seconds. If all exercises were added the workout can be started. Now the timer starts and the exercises appear together with a countdown.
 
 <img src="/assets/Timer_Screenshots/Simulator Screen Shot - iPhone 8 - 2021-12-11 at 23.06.13.png"
      alt="application photo"
@@ -99,23 +99,8 @@ This application is made for your own personel workouts.
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
      width="230" height="400"/>
 
-```markdown
-Syntax highlighted code block
+## Crypto Trading Bot (Python)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
