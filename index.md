@@ -137,7 +137,7 @@ My whole life i loved games and i always wanted to build my own game. Some years
 <img src="/assets/Pokemon_Screenshots/Pokemon_screenshot.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="1000" height="700"/>
+     width="1000" height="550"/>
 
 ### Support or Contact
 
