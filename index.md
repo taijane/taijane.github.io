@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About me
+My name is Tjan Meinecke, I'm 22 years old and live in Hanover, Germany. Currently i study Computer Engineering (Master of Science) at the Leibniz university in Hanover. My whole live i was obsessed with technology, especially computers. At the age of 10 i started to take apart old computers and study all the components to get a better understanding off how the stuff works. Only a year later i bought my first programming book and started to learn C++ in my free time. Since then programming never left my live again. In school my favorite and best subject was IT. When i came home after school, the first thing I did was to start my computer trying to learn something new about coding or hacking (white hat of course ;) ). Thats why after finishing school I knew exactly what i want to study. Unfortunately at the university there wasnt a class about IOS app development, which was always a dream of mine to learn some day. So i decided to buy a macbook myself and started learning to code apps on my own. 
+Two years ago i also developed a big interest in DJing and music production. So i started to watch a lot of tutorials and learned everything about the process of making a song, mixing and mastering and publishing it.
 
-You can use the [editor on GitHub](https://github.com/taijane/taijane.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I decided to setup this website to show some of my projects and hopefully make a good impression for future applications.
 
 ### Markdown
 
