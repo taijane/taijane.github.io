@@ -105,6 +105,26 @@ This application is made for your own personal workouts. First, you can add a ne
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
      width="500" height="300"/>
+     
+<img src="/assets/Glaedr_Screenshots/GUI_backtester_loading_process.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="500" height="300"/>
+     
+<img src="/assets/Glaedr_Screenshots/GUI_backtester_result.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="500" height="300"/>
+     
+<img src="/assets/Glaedr_Screenshots/PLOT_backtester.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="500" height="300"/>
+     
+<img src="/assets/Glaedr_Screenshots/PLOT2_backtester.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="500" height="300"/>
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
