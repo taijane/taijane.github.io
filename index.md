@@ -198,6 +198,11 @@ It should be obvious now that i really like computer games. One thing is very im
      
 For more of my wallpapers check: [Wallpaperswide](http://wallpaperswide.com/members/najt/)
 
+# Music Production
+
+Like I said in the info text in the beginning, I also produced some music. But nothing was good enough to get known :(  
+If you are interested check out my [Soundcloud](https://soundcloud.com/beeyondmusic)
+
 # Future projects...
 
 ## NFT Project
