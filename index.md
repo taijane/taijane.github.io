@@ -151,27 +151,27 @@ We started with a survey to determine what material is best and what prices we c
 <img src="/assets/Cups_Screenshots/1.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="490" height="250"/>
+     width="490" height="320"/>
      
 <img src="/assets/Cups_Screenshots/2.png"
     alt="application photo"
     style="float: left; margin-right: 10px; margin-bottom: 10px;"
-    width="490" height="250"/>
+    width="490" height="320"/>
      
 <img src="/assets/Cups_Screenshots/3.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="490" height="250"/>
+     width="490" height="320"/>
      
 <img src="/assets/Cups_Screenshots/4.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="490" height="250"/>
+     width="490" height="320"/>
      
 <img src="/assets/Cups_Screenshots/5.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="490" height="250"/>
+     width="490" height="320"/>
 
 ### Support or Contact
 
