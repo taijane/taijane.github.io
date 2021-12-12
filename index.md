@@ -198,7 +198,7 @@ It should be obvious now that i really like computer games. One thing is very im
      
 For more of my wallpapers check: [Wallpaperswide](http://wallpaperswide.com/members/najt/)
 
-# Music Production
+## Music Production
 
 Like I said in the info text in the beginning, I also produced some music. But nothing was good enough to get known :(  
 If you are interested check out my [Soundcloud](https://soundcloud.com/beeyondmusic)
@@ -211,7 +211,7 @@ At the moments I'm making plans to start my own NFT project soon. At the moment 
 
 ## Blockchain Project (DAO)
 
-Also there are some plans to found a DAO that works autonomous on the blockchain. Further details follow...
+Also there are some plans to found a DAO that works autonomous on the blockchain. Further details will follow...
 
 ### Contact
 Email: tjan99@gmx.de
