@@ -198,8 +198,17 @@ It should be obvious now that i really like computer games. One thing is very im
      
 For more of my wallpapers check: [Wallpaperswide](http://wallpaperswide.com/members/najt/)
 
-### Support or Contact
+# Future projects...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## NFT Project
 
+At the moments I'm making plans to start my own NFT project soon. At the moment I'm looking for good artists. Then I'll have to code the generator that takes all drawn masks and put them together using a probability distribution.
+
+## Blockchain Project (DAO)
+
+Also there are some plans to found a DAO that works autonomous on the blockchain. Further details follow...
+
+### Contact
+Email: tjan99@gmx.de
+Linkedin: tjan-meinecke
 
