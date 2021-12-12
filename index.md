@@ -143,6 +143,36 @@ My whole life i loved games and i always wanted to build my own game. Some years
 
 In the 5th semester at my university we had to build a VR Game in Unity with a team of 7 people. The goal was to build a dark labyrinth that changes while walking. My part was to design a couple of mini games that the player had to play to get more time and his torch that he needed for light wouldn't burn out. So i designed a VR bowling game and button mashing game. The game was a huge success and is still used for demonstration what students could learn at the university. Sadly there aren't any photots or videos available at the moment.
 
+## Beerpong Cups (Dropshipping)
+
+Last year i started with a partner a project to sell reuseable aluminium beerpong cups online to help the environment by reducing the amount of plastic used on partys. 
+We started with a survey to determine what material is best and what prices we could consider to charge. After that we ordererd some sample cups from a huge manufactory and did some testing. Despite, the project idea was very good and fun to work on, we had to stop the project because the cups were to expensive and our survey results doesnt fit with the price requirements. Below are some mockups I created with blender for possible cup designs.
+
+<img src="/assets/Cups_Screenshots/1.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="250"/>
+     
+<img src="/assets/Cups_Screenshots/2.png"
+    alt="application photo"
+    style="float: left; margin-right: 10px; margin-bottom: 10px;"
+    width="490" height="250"/>
+     
+<img src="/assets/Cups_Screenshots/3.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="250"/>
+     
+<img src="/assets/Cups_Screenshots/4.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="250"/>
+     
+<img src="/assets/Cups_Screenshots/5.png"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="250"/>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
