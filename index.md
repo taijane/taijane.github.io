@@ -172,7 +172,34 @@ We started with a survey to determine what material is best and what prices we c
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
      width="1000" height="600"/>
+     
+## 3D Design with Blender
+It should be obvious now that i really like computer games. One thing is very important if you want to build your own 3D game and this is 3D Models. I started to learn modeling with Blender. I designed weapons, houses, whole maps and many other objects. But i also wanted to do something with my skills for other people. Thats why i designed some cool wallpapers with logos off stuff i like. These images can be downloaded for free and used as a background image. Here are some examples.
+
+<img src="/assets/LogoDesigns/naruto_konoha_symbol-wallpaper-1680x1050.jpg"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="300"/>
+     
+<img src="/assets/LogoDesigns/naruto_akatsuki-wallpaper-1680x1050.jpg"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="300"/>
+     
+<img src="/assets/LogoDesigns/fairy_tail_symbol-wallpaper-1680x1050.jpg"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="300"/>
+     
+ <img src="/assets/LogoDesigns/marshmello_logo-wallpaper-1920x1080.jpg"
+     alt="application photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;"
+     width="490" height="300"/>
+     
+For more of my wallpapers check: [Wallpaperswide](http://wallpaperswide.com/members/najt/)
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
