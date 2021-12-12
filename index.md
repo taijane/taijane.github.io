@@ -171,7 +171,7 @@ We started with a survey to determine what material is best and what prices we c
 <img src="/assets/Cups_Screenshots/5.png"
      alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
-     width="1000" height="700"/>
+     width="1000" height="600"/>
 
 ### Support or Contact
 
