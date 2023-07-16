@@ -14,6 +14,8 @@ I decided to setup this website to show some of my projects and hopefully make a
 ## FPV Drone Shop
 My most recent project is a eCommerce FPV Drone Shop. The project is build with wordpress and woocommerce. Users can shop drone parts (Motors, Propellers, ...) to build their own FPV Drone.
 
+Link to the shop: <a href="https://mdrones.de"></a>
+
 <img src="/assets/DroneShop/Home.png" alt="application photo"
      style="float: left; margin-right: 10px; margin-bottom: 10px;"
 />
